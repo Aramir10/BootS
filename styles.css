@@ -9,8 +9,16 @@ h1
 {
 text-align: center;
 }
-#slides
+
+#footer
 {
+  list-style-type: none;
+padding: 0;
+margin: 0;
+text-align: right;
+width: 10em;
 
-
+}
+body{
+  background-color: gray;
 }
